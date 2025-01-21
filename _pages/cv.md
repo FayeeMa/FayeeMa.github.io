@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Check my CV [here](https://FayeeMa.github.io/resume) for more info.
+Check my CV [here](http://FayeeMa.github.io/files/CV_Feiyan_Ma.pdf) for more info.
 
 # Education
 Undergraduate student at Weiyang College, Tsinghua University.
