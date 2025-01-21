@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "IMG_20250122_022030.png"
   name             : "Feiyan Ma"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "Random Walker in Mathematics."
   location         : "Beijing, China"
   employer         : "Tsinghua University"
