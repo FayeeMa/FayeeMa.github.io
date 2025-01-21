@@ -18,19 +18,20 @@ I am officially in my fourth year of undergraduate study, but I plan to delay my
 
 
 # Skills
-- Programming:  R, Python, \LaTeX, Git \\
+- Programming:  R, Python, LaTeX, Git
+  
 - Language: Chinese (native), English (TOEFL 108 (R30/L26/S23/W29)), French (second foreign language)
 
 # Publications & Manuscripts
-(* indicates equal contribution.)
+*(\* indicates equal contribution.)*
 
-**ICLR 2025** Xinyuan Fan*, Feiyan Ma*, Chenlei Leng, Weichi Wu. ``Additive Seperable Graphon Models''. [link](https://openreview.net/forum?id=9LHr33MQh2)
+**ICLR 2025** Xinyuan Fan\*, Feiyan Ma\*, Chenlei Leng, Weichi Wu. "Additive Seperable Graphon Models". [link](https://openreview.net/forum?id=9LHr33MQh2)
   
 # Research Experiences
 
 Additive Seperable Graphon Models (2024.03-2024.12)
 
-Supervised by Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/en/info/1023/1048.htm)
+Supervised by Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/en/info/1023/1048.htm) and Prof. [Chenlei Leng](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/leng/).
 
 - We use the additive separable model as a parsimonious representation of the graphon, capable of generating a low-rank connection probability matrix for network data. 
 
