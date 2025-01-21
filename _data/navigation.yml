@@ -28,7 +28,7 @@ main:
   - title: "Links"
     url: /links/
     
-      - title: "CV"
+  - title: "CV"
     url: /cv/
     
   #- title: "Guide"
