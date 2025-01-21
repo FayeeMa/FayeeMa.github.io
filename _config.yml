@@ -21,7 +21,7 @@ repository               : "FayeeMa/FayeeMa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_20250122_022030.png"
+  avatar           : "avatar.png"
   name             : "Feiyan Ma"
   pronouns         : #"she/her"  
   bio              : "Random Walker in Mathematics."
