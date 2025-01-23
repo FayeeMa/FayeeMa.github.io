@@ -25,8 +25,8 @@ I am officially in my fourth year of undergraduate study, but I plan to delay my
 # Publications & Manuscripts
 *(\* indicates equal contribution.)*
 
-**ICLR 2025** Xinyuan Fan\*, Feiyan Ma\*, Chenlei Leng, Weichi Wu. "Additive Seperable Graphon Models". [link](https://openreview.net/forum?id=9LHr33MQh2)
-  
+**(Manuscript)** Xinyuan Fan\*, Feiyan Ma\*, Chenlei Leng, Weichi Wu. "Additive Seperable Graphon Models". (to appear on arXiv)
+
 # Research Experiences
 
 Additive Seperable Graphon Models (2024.03-2024.12)
@@ -43,9 +43,9 @@ Supervised by Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/en/info/1023/10
 
 - **Undergraduate Core Courses**: Probability Theory (1) (A+), Measures and Integrals (A), Numerical Analysis (A), Basic Functional Analysis (A), Linear Regression Analysis (A-), Statistical Inference (A-), Reliability Data and Survival Analysis (A), ...
 
-- **Other Relevant Courses**: Abstract Algebra (A), Topology (A), Differential Geometry (A), Financial Statistics (A+), Operation Research (A), Intro to Biostatistics (A),  Intro to Optimization Theory (A-), Topics in Logics (A), Advanced Topics in Linear Algebra (A-), ...
+- **Other Relevant Courses**: Abstract Algebra (A), Topology (A), Differential Geometry (A), Financial Statistics (A+), Operation Research (A), Intro to Biostatistics (A),  Intro to Optimization Theory (A-), Topics in Logics (A), Advanced Topics in Linear Algebra (A-), Partial Differential Equations (ongoing), ...
 
-- **Graduate-Level Courses**: Advanced Mathematical Statistics I (A), Advanced Mathematical Statistics II (A-), Computational Probability (A), Probability (2) (B+)
+- **Graduate-Level Courses**: Advanced Mathematical Statistics I (A), Advanced Mathematical Statistics II (A-), Computational Probability (A), Probability (2) (B+), Statistical Analysis of Network Data (ongoing), Advanced Statistical Methodology (ongoing)
 
 # Honors & Awards
 
