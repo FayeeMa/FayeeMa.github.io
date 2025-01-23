@@ -12,12 +12,14 @@ redirect_from:
 Check my CV [here](http://FayeeMa.github.io/files/CV_Feiyan_Ma.pdf) for more info.
 
 # Education
+
 Undergraduate student at Weiyang College, Tsinghua University.
 
 I am officially in my fourth year of undergraduate study, but I plan to delay my graduation by one year due to the pace of my academic progress. Thus I plan to apply for PhD programs in statistics in 2026 Fall.
 
 
 # Skills
+
 - Programming:  R, Python, LaTeX, Git
   
 - Language: Chinese (native), English (TOEFL 108 (R30/L26/S23/W29)), French (second foreign language)
@@ -33,12 +35,12 @@ Additive Seperable Graphon Models (2024.03-2024.12)
 
 Supervised by Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/en/info/1023/1048.htm) and Prof. [Chenlei Leng](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/leng/).
 
-- We use the additive separable model as a parsimonious representation of the graphon, capable of generating a low-rank connection probability matrix for network data. 
+- We propose a novel approach that directly leverages a low-rank representation of the graphon for parsimonious modeling. This representation naturally yields both a low-rank connection probability matrix and a low-rank graphon — two tasks that are often infeasible in existing literature — while also addressing the well-known identification issues in graphon estimation.
 
-- We develop an efficient estimation approach that leverages subgraph counts to estimate the low-rank connection matrix and uses interpolation to recover the graphon functions, achieving the minimax optimal estimation rate. This model effectively addresses the well-known identification challenges associated with graphon functions. 
+- By exploiting the additive structure of this representation, we develop an efficient sequential fitting algorithm that estimates the low-rank connection matrix using subgraph counts and reconstructs the graphon function through interpolation. 
         
 - We provide the convergence rate of our method, and validate its computational efficiency and estimation accuracy through comprehensive simulation studies.
-
+  
 # Relevant Courses
 
 My official transcript can be found [here](http://FayeeMa.github.io/files/2021012561_undergraduate_major_en.pdf).
