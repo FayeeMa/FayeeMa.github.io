@@ -41,6 +41,8 @@ Supervised by Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/en/info/1023/10
 
 # Relevant Courses
 
+My official transcript can be found [here](http://FayeeMa.github.io/files/2021012561_undergraduate major_en.pdf).
+
 - **Undergraduate Core Courses**: Probability Theory (1) (A+), Measures and Integrals (A), Numerical Analysis (A), Basic Functional Analysis (A), Linear Regression Analysis (A-), Statistical Inference (A-), Reliability Data and Survival Analysis (A), ...
 
 - **Other Relevant Courses**: Abstract Algebra (A), Topology (A), Differential Geometry (A), Financial Statistics (A+), Operation Research (A), Intro to Biostatistics (A),  Intro to Optimization Theory (A-), Topics in Logics (A), Advanced Topics in Linear Algebra (A-), Partial Differential Equations (ongoing), ...
