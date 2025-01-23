@@ -6,7 +6,7 @@ permalink: /publication/Additive-Seperable-Graphon-Models
 excerpt: 'A new additive separable graphon model, capable of generating a low-rank connection probability matrix for network data, is proposed along with efficient estimation methods.'
 date: 2025-01-15
 venue: 'arXiv preprint'
-paperurl: 'http://FayeeMa.github.io/files/toappear'
+paperurl: ''
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
