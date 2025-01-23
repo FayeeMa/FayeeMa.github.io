@@ -1,11 +1,11 @@
 ---
 title: "Additive Seperable Graphon Models"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/Additive-Seperable-Graphon-Models
-excerpt: 'This paper is about a parsimonious representation of the graphon, capable of generating a low-rank connection probability matrix for network data.'
+excerpt: 'A new additive separable graphon model, capable of generating a low-rank connection probability matrix for network data, is proposed along with efficient estimation methods.'
 date: 2025-01-15
-venue: 'ICLR'
+venue: 'arXiv preprint'
 paperurl: 'http://FayeeMa.github.io/files/asgm.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
