@@ -27,11 +27,11 @@ I am officially in my fourth year of undergraduate study, but I plan to delay my
 # Publications & Manuscripts
 *(\* indicates equal contribution.)*
 
-**(Manuscript)** Xinyuan Fan\*, Feiyan Ma\*, Chenlei Leng, Weichi Wu. "Additive Seperable Graphon Models". (to appear on arXiv)
+**(Preprint)** Xinyuan Fan\*, Feiyan Ma\*, Chenlei Leng, Weichi Wu. "Low-Rank Approaches to Graphon Modeling in Networks". (to appear on arXiv)
 
 # Research Experiences
 
-Additive Seperable Graphon Models (2024.03-2024.12)
+Low-Rank Approaches to Graphon Modeling in Networks (2024.03-2024.12)
 
 Supervised by Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/en/info/1023/1048.htm) and Prof. [Chenlei Leng](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/leng/).
 
