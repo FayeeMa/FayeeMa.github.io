@@ -4,4 +4,4 @@ excerpt: "An instant camera photo taken with my best friend during the trip in C
 collection: portfolio
 ---
 
-An instant camera photo taken with my best friend during the trip in Changsha.
+An instant camera photo taken with my best friend Yilin during the trip in Changsha.
