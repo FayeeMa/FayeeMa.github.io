@@ -11,6 +11,6 @@ I am currently an undergraduate student at Weiyang College, Tsinghua University,
 
 My research interests lie broadly in statistics. I investigate various problems in statistical network analysis, with a focus on graphon estimation. My research interests include community detection, signed network modeling, graphon estimation, as well as analyzing algorithm properties and robustness. In addition to these areas, I am open to diving into other aspects of statistical theory and methodologies, constantly seeking new challenges and opportunities within the field. 
 
-It's very fortunate for me to work with Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/en/info/1023/1048.htm) at Tsinghua and Prof. [Chenlei Leng](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/leng/) at Warwick.
+It's very fortunate for me to work with Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/en/info/1023/1048.htm) and Prof. [Chenlei Leng](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/leng/).
 
 **I am applying for a summer research internship in 2025**, and planning to apply for a PhD position in Statistics for Fall 2026.
