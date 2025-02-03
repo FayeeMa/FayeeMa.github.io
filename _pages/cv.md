@@ -27,7 +27,7 @@ I am officially in my fourth year of undergraduate study, but I plan to delay my
 # Publications & Manuscripts
 *(\* indicates equal contribution.)*
 
-**(Preprint)** Xinyuan Fan\*, Feiyan Ma\*, Chenlei Leng, Weichi Wu. "Low-Rank Approaches to Graphon Modeling in Networks". (to appear on arXiv)
+**(Preprint)** Xinyuan Fan\*, Feiyan Ma\*, Chenlei Leng, Weichi Wu. "Low-Rank Approaches to Graphon Modeling in Networks". ([link](https://arxiv.org/abs/2501.18785))
 
 # Research Experiences
 
