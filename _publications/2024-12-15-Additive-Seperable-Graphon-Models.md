@@ -1,7 +1,7 @@
 ---
 title: "Low-Rank Approaches to Graphon Modeling in Networks"
 collection: publications
-category: preprint
+category: preprints
 permalink: /publication/Low-Rank-Approaches-to-Graphon-Learning-in-Networks
 excerpt: 'A new graphon modeling approach, capable of generating a low-rank connection probability matrix for network data, is proposed along with rigorous analysis.'
 date: 2025-01-15
