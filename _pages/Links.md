@@ -15,4 +15,4 @@ Some course notes (in Chinese) for statistics and mathematics courses can be fou
 
 # Friends (at Tsinghua)
 
-Yufan You (ouuan): [ouuan's blog](https://ouuan.moe)
+TBD.
