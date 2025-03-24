@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am currently an undergraduate student at Weiyang College, Tsinghua University, majoring in Mathematics and Physics. I am planning to apply for a PhD position in Statistics for Fall 2026.
 
 My research interests lie broadly in statistics. I investigate various problems in statistical network analysis, with a focus on graphon estimation. In addition to these areas, I am open to diving into other aspects of statistical theory and methodologies, constantly seeking new challenges and opportunities within the field. 
