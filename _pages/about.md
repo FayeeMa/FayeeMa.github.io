@@ -17,4 +17,4 @@ It's very fortunate for me to work with Prof. [Weichi Wu](https://www.stat.tsing
 
 Please feel free to call me Faye Ma. I'd like to use Faye instead of Feiyan in academic settings both for ease of pronunciation and for my personal preferences. I am originally from [Shanghai](https://en.wikipedia.org/wiki/Shanghai).
 
-My favourite sports include Archery and Shooting sports. I'm currently training with a recurve bow for archery, as well as with air rifles and air guns for shooting. These sports offer a great mix of strength, precision and focus, and I hope to participate in competitions one day.
+My favourite sports include Archery and Shooting. I'm currently training with a recurve bow for archery, as well as with air rifles and air guns for shooting. These sports offer a great mix of strength, precision and focus, and I hope to participate in competitions one day.
