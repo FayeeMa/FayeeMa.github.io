@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student at Weiyang College, Tsinghua University, majoring in Mathematics and Physics. I am planning to apply for a PhD position in Statistics for Fall 2026.
+I am currently an undergraduate student at Weiyang College, Tsinghua University, majoring in Mathematics and Physics. **I am planning to apply for a PhD position in Statistics for Fall 2026**.
 
 My research interests lie broadly in statistical network analysis, including graphon estimation, network reconstruction and hypergraph modeling. I develop statistical methodologies to better understand underlying structures in complex systems. 
 
@@ -16,6 +16,6 @@ I am fortunate to work with Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/e
 
 # Miscs
 
-Please feel free to call me Faye Ma. I'd like to use Faye instead of Feiyan in academic settings both for ease of pronunciation and for my personal preferences. I am originally from [Shanghai](https://en.wikipedia.org/wiki/Shanghai).
+Please feel free to call me Faye. I am originally from [Shanghai](https://en.wikipedia.org/wiki/Shanghai).
 
-My favourite sports include Archery and Shooting. I'm currently training with a recurve bow for archery, as well as with air rifles and air guns for shooting. These sports offer a great mix of strength, precision and focus, and I hope to participate in competitions one day.
+My favorite sports include archery and shooting. At Tsinghua, I'm training with a recurve bow and air rifles. These sports combine strength, precision, and focus, and I look forward to participating in amateur competitions one day.
