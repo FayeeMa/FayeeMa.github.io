@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/Low-Rank-Approaches-to-Graphon-Learning-in-Networks
 excerpt: 'A new graphon modeling approach, capable of generating a low-rank connection probability matrix for network data, is proposed along with rigorous analysis.'
 date: 2025-01-15
-venue: 'arXiv preprint'
+venue: 'NeurIPS 2025 poster'
 paperurl: 'https://arxiv.org/pdf/2501.18785'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
