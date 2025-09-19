@@ -9,7 +9,9 @@ redirect_from:
 
 I am currently an undergraduate student at Weiyang College, Tsinghua University, majoring in Mathematics and Physics. **I am planning to apply for a PhD position in Statistics for Fall 2026**.
 
-My research interests broadly span statistical network analysis, including graphon estimation, latent space models, and hypergraph data analysis. I develop statistical methodologies to better understand underlying structures in complex systems. Additionally, I'm always open to exploring new and interesting topics in stats/biostats, so if you have a project that might interest both of us, feel free to reach out!
+My research interests broadly span statistical network analysis, including graphon estimation, latent space models, and hypergraph data analysis. I develop statistical methodologies to better understand underlying structures in complex systems. 
+
+Additionally, I'm always open to exploring new and interesting topics in stats/biostats, so if you have a project that might interest both of us, feel free to reach out!
 
 It's a great honor for me to work with Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/en/info/1023/1048.htm) and Prof. [Chenlei Leng](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/leng/) on graphon models as my first research project. I spend a wonderful summer at UMich collaborating with Prof. [Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) and Prof. [Gongjun Xu](https://sites.google.com/umich.edu/gongjunxu) on hypergraph generation, an experience that has greatly enriched my academic journey.
 
