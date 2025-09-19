@@ -1,5 +1,5 @@
 ---
-title: "Trip in Changsha"
+title: "Summer in Ann Arbor"
 excerpt: "A collection of photos taken during the wonderful summer spent in Ann Arbor in 2025."
 collection: portfolio
 ---
