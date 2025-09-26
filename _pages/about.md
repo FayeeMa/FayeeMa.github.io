@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student at Weiyang College, Tsinghua University, majoring in Mathematics and Physics. **I am planning to apply for a PhD position in Statistics for Fall 2026**.
+I am currently an undergraduate student at Weiyang College, Tsinghua University, majoring in Mathematics and Physics. **<u>I am applying for a PhD position in Statistics for Fall 2026</u>**.
 
-My research interests broadly span statistical network analysis, including graphon estimation, latent space models, and hypergraph data analysis. I develop statistical methodologies to better understand underlying structures in complex systems. 
+My research interests broadly span statistical network analysis, including graphon estimation, latent space models, and (hyper)graph data analysis. I develop statistical methodologies to analyze large-scale, complex-structured datasets.
 
 Additionally, I'm always open to exploring new and interesting topics in stats/biostats, so if you have a project that might interest both of us, feel free to reach out!
 
