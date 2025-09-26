@@ -13,7 +13,7 @@ My research interests broadly span statistical network analysis, including graph
 
 As a junior researcher, I'm always open to exploring new and interesting topics in stats/biostats, so if you have a topic that might interest both of us, feel free to reach out!
 
-It's a great honor for me to work with Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/en/info/1023/1048.htm) and Prof. [Chenlei Leng](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/leng/) on graphon models as my first research project. I spend a wonderful summer at UMich collaborating with Prof. [Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) and Prof. [Gongjun Xu](https://sites.google.com/umich.edu/gongjunxu) on hypergraph generation, an experience that has greatly enriched my academic journey.
+During my undergraduate study, it's a great honor for me to work with Prof. [Weichi Wu](https://www.stat.tsinghua.edu.cn/en/info/1023/1048.htm) and Prof. [Chenlei Leng](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/leng/) on graphon models as my first research project. I spend a wonderful summer at [UMich](https://lsa.umich.edu/stats) collaborating with Prof. [Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) and Prof. [Gongjun Xu](https://sites.google.com/umich.edu/gongjunxu) on hypergraph generation, an experience that has greatly enriched my academic journey.
 
 
 # Miscs
