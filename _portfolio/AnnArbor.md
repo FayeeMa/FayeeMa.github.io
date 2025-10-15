@@ -13,7 +13,7 @@ The photos include both English and Chinese descriptions (with yellow text and b
 Deer at the North Campus.
 <br/><img src='/images/aa/deer.png'>
 
-A photo wall of adorable animals at Randall. My black kitten joined the collection :)
+A photo wall of adorable pets at Randall. My black kitten joined the collection :)
 <br/><img src='/images/aa/lovelyanimals.png'>
 
 The beautiful industrial-style stairway at Randall, right next to my office.
