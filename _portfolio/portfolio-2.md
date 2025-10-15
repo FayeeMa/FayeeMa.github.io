@@ -38,12 +38,12 @@ Delicious ice cream from Leila in Detroit, topped with dragon-beard candy and pi
 <br/><img src='/images/aa/icecream.png'>
 
 Yingchuan, Yiran, Yuxin, and I made hotpot at home — absolutely delicious!
-<br/><img src='/images/aa/bbq.png'>
-
-BBQ at The Seoul with Yingchuan and Yiran. They are also undergraduate students from China conducting summer research internships at UMich. Their friendship made this journey even more colorful.
 <br/><img src='/images/aa/diyhotpot.png'>
 
-We also visited the Ann Arbor Art Fair that day. This stall was my favorite — flower windows made of glass pieces, shining brightly in the sunlight.
+BBQ at [The Seoul](https://maps.app.goo.gl/PmTz9qLDS5CfqGwK6) with Yingchuan and Yiran. They are also undergraduate students from China conducting summer research internships at UMich. Their friendship made this journey even more colorful.
+<br/><img src='/images/aa/bbq.png'>
+
+We also visited the [Ann Arbor Art Fair](https://www.theannarborartfair.com/) that day. This stall was my favorite — flower windows made of glass pieces, shining brightly in the sunlight.
 <br/><img src='/images/aa/artfair.png'>
 
 Autumn arrived in Ann Arbor, and it was time for me to leave.
