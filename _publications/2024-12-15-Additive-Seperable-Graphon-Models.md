@@ -11,3 +11,5 @@ paperurl: 'https://arxiv.org/pdf/2501.18785'
 ---
 
 Graphons offer a powerful framework for modeling large-scale networks, yet estimation remains challenging. We propose a novel approach that leverages a low-rank additive representation, yielding both a low-rank connection probability matrix and a low-rank graphon--two goals rarely achieved jointly. Our method resolves identification issues and enables an efficient sequential algorithm based on subgraph counts and interpolation. We establish consistency and demonstrate strong empirical performance in terms of computational efficiency and estimation accuracy through simulations and data analysis.
+
+[Official Code Repository](https://github.com/Chiyuru/Low-Rank-Graphon-Learning-for-Networks)
