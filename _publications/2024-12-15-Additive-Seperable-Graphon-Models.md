@@ -9,9 +9,9 @@ venue: 'NeurIPS'
 paperurl: 'https://openreview.net/forum?id=1n5TJh3LEb'
 citation: 'Fan, Xinyuan, Feiyan Ma, Chenlei Leng, and Weichi Wu. "Low-Rank Graphon Learning for Networks." In The Thirty-ninth Annual Conference on Neural Information Processing Systems.'
 ---
-Authors: Xinyuan Fan*, Feiyan Ma*, Chenlei Leng, Weichi Wu.
+Authors: Xinyuan Fan\*, **Feiyan Ma**\*, Chenlei Leng, Weichi Wu.
 
-(* indicates equal contributions.)
+(\* indicates equal contributions.)
 
 Graphons offer a powerful framework for modeling large-scale networks, yet estimation remains challenging. We propose a novel approach that leverages a low-rank additive representation, yielding both a low-rank connection probability matrix and a low-rank graphon--two goals rarely achieved jointly. Our method resolves identification issues and enables an efficient sequential algorithm based on subgraph counts and interpolation. We establish consistency and demonstrate strong empirical performance in terms of computational efficiency and estimation accuracy through simulations and data analysis.
 
