@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student at Weiyang College, Tsinghua University, majoring in Mathematics and Physics. **<u>I am applying for a PhD position in Statistics for Fall 2026</u>**.
+I am currently an undergraduate student at Weiyang College, Tsinghua University, majoring in Mathematics and Physics. I will join the Statistics and Data Science PhD program at the [Wharton School](https://www.wharton.upenn.edu/) of the [University of Pennsylvania](https://www.upenn.edu/) in Fall 2026.
 
 My research interests primarily lie in statistical network analysis, including graphon estimation, latent space models, and generative models for structured data. I develop statistical methodologies to better understand the underlying patterns of large-scale, complex datasets.
 
