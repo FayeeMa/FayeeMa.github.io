@@ -8,7 +8,7 @@ author_profile: true
 
 # Chinese Blogs
 
-Some course notes (in Chinese) for statistics and mathematics courses can be found [here](https://chiyuru.github.io/tags/%E6%95%B0%E5%AD%A6/) on my blog. Some of them are incomplete, or merely a collection of scattered thoughts.
+I usually write non-academic articles in Chinese [here](https://chiyuru.github.io/). I truly believe that the best way to exit the cave is to feel and create, and this is the path I sincerely want to share with you.
 
 BTW, I've been a big fan of anime for over ten years, and here’s a [list](https://bgm.tv/user/chiyuru) of my collection (in Chinese). My favorite series are [Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan) and [Neon Genesis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion).
 
