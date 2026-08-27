@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining the Statistics and Data Science PhD program at the [Wharton School](https://www.wharton.upenn.edu/) of the [University of Pennsylvania](https://www.upenn.edu/) in Fall 2026. I hold a bachelor's degree in Mathematics and Physics from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I'm currently a PhD student in Statistics and Data Science at the [Wharton School](https://www.wharton.upenn.edu/) of the [University of Pennsylvania](https://www.upenn.edu/). I hold a bachelor's degree in Mathematics and Physics from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 My research interests primarily lie in statistical network analysis, including graphon estimation, latent space models, and generative models for structured data. I develop statistical methodologies to better understand the underlying patterns of large-scale, complex datasets. As a junior researcher, I'm always open to exploring new and interesting topics in stats/biostats/modern ML.
 
